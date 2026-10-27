@@ -19,9 +19,10 @@ Header with logo, nav and Call button; Hero with photo; Services; Roof structure
 Newest first.
 
 ### 2026-10-26
+- Removed the review count from the Google rating; it now shows just 4.7 stars everywhere.
 - Linked the 4.7 star Google rating to the Google listing and added a "Google reviews" button next to the social buttons (Contact and footer).
 - Added Facebook and Instagram buttons in Contact and the footer.
-- Added the verified Google rating (4.7, 9 reviews) and "Licensed & insured" in the hero, About us stats, Contact and footer.
+- Added the verified Google rating (4.7) and "Licensed & insured" in the hero, About us stats, Contact and footer.
 - Published the site to GitHub (`danielmely/price-marine-construction`) for GitHub Pages hosting; added this README.
 - Created a standalone test file for opening the site outside Claude (Safari).
 
