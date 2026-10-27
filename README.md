@@ -18,6 +18,9 @@ Header with logo, nav and Call button; Hero with photo; Services; Roof structure
 
 Newest first.
 
+### 2026-10-27
+- Mobile: social buttons (Contact and footer) sit on one evenly spaced row. Under 400 px wide they show logos only; wider screens show names in Contact. Contact button label shortened to "Google" with the Google logo.
+
 ### 2026-10-26
 - Roof structures list: replaced "Rated for 140+ MPH winds" with "Licensed & insured". The 140+ MPH rating still appears in the hero, roof headline and facts strip.
 - Footer social buttons are now icon-only (Facebook, Instagram, Google logos). Contact section buttons keep their names.
