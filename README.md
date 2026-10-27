@@ -19,6 +19,7 @@ Header with logo, nav and Call button; Hero with photo; Services; Roof structure
 Newest first.
 
 ### 2026-10-26
+- Roof structures list: replaced "Rated for 140+ MPH winds" with "Licensed & insured". The 140+ MPH rating still appears in the hero, roof headline and facts strip.
 - Footer social buttons are now icon-only (Facebook, Instagram, Google logos). Contact section buttons keep their names.
 - Removed the review count from the Google rating; it now shows just 4.7 stars everywhere.
 - Linked the 4.7 star Google rating to the Google listing and added a "Google reviews" button next to the social buttons (Contact and footer).
