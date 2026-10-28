@@ -19,6 +19,7 @@ Header with logo, nav and Call button; Hero with photo; Services; Roof structure
 Newest first.
 
 ### 2026-10-27
+- Headline and display font changed from Big Shoulders Display to Antonio, a tall condensed font matching the Salty Beach look. Body text (Public Sans) and small labels (IBM Plex Mono) are unchanged.
 - Mobile: social buttons (Contact and footer) sit on one evenly spaced row. Under 400 px wide they show logos only; wider screens show names in Contact. Contact button label shortened to "Google" with the Google logo.
 
 ### 2026-10-26
